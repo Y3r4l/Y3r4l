@@ -83,7 +83,7 @@
   <img src="https://i.pinimg.com/originals/bb/6b/d1/bb6bd101bed28b78e606fef72209c51f.gif" width="25px">
 </h2>
 <p align="center">
-	<a href="mailto:yvp430@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:ysapoama@outlook.es"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Y3r4l"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/y-vasquez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
