@@ -7,17 +7,21 @@
 &nbsp;
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Y3r4l&count_bg=%237E3ACE&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile views" />
 </p>
+
 <!--Header Name-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture> I am Yeral!
 *Computer Science Student (Software Developer / Programmer)*
 <br /> 
+
 <!--Hello-->
 <div>
   <img align="right" width="35%" src="https://media1.tenor.com/m/cRcIuuLnGcoAAAAd/puffy-puffy-bear.gif">
 </div>
+
 <!--Start Intro-->               
 <p align="left"> 🚀 I am a passionate software Developer with a strong foundation in Business Administration, transitioning into technology to create scalable, high-performance systems.  
     Currently pursuing a Commercial Software Engineering degree with a focus on Design and Architecture at Jala University. </p>
+
   ✨ Student of life :)  
     🌱 I'm currently learning backend development, software architecture, and automation, and I believe every day is a learning opportunity.  
     💻 I enjoy working on projects that simulate real-world scenarios, such as:  
@@ -26,7 +30,6 @@
     ❤️ Contributing to open source and collaborating with tech communities to grow and share knowledge.  
     📝 I occasionally write about my learning journey and technical insights.  
 <!--End Intro-->
-  
 ---
 <br />
 <!--Languages and Tools Section-->       
